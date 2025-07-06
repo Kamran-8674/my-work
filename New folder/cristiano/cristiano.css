@@ -1,0 +1,49 @@
+#cn{
+    text-align: center;
+    color: black;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.kn{
+    text-align: center;
+}
+#li{
+    color: rgba(255, 0, 0, 0.795);
+}
+*{
+    background-color: burlywood;
+    margin: 20px;
+}
+.ni{
+    margin: 0%;
+}
+h{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+*{
+    border: 20px solid color red;
+}
+/* li{
+    border: 5px solid red; */
+
+/* #ui{
+    border: 20px solid red;
+} */
+ .kj{
+    border: 3px solid rebeccapurple;
+    border-radius: 0%;
+ }
+ *{
+    /* background-image: url(https://images.pexels.com/photos/7393872/pexels-photo-7393872.jpeg); */
+/* background-repeat: no-repeat; */
+/* background-repeat: repeat-x; */
+/* background-size: cover; */
+ }
+#ik{
+    
+}
+
+
+
+
